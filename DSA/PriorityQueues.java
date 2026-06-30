@@ -1,5 +1,5 @@
 import java.util.*;
-public class Heaps {
+public class PriorityQueues {
 
     //pq for objects
     static class Student implements Comparable<Student> {
