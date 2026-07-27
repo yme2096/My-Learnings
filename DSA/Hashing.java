@@ -322,7 +322,7 @@ return map.isEmpty();
     
     }
     public static void main(String[] args) {
-        /* 
+        /*  
        //create
        HashMap<String,Integer>hm=new HashMap<>();
        //insert
